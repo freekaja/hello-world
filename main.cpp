@@ -9,5 +9,6 @@ void print(const char *myname);
 int main()
 {
     std::cout<<"Hello, World!\n";
+    std::cout<<"Who are you!\n";
     return 0;
 }
